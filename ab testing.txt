@@ -50,15 +50,6 @@ This project analyzes the performance of Facebook and AdWords ad campaigns using
 
 ---
 
-## 📥 How to Run
-
-1. Load the dataset into PostgreSQL
-2. Run SQL scripts to calculate conversion rates, uplift %, and z-test
-3. Connect Power BI to PostgreSQL
-4. Build visuals using query results (or import CSV)
-
----
-
 ## 🧠 Insights
 
 > Facebook outperformed AdWords by 63.58% in conversion efficiency. The difference is statistically significant (z = -72.91), indicating Facebook is the stronger performer in this A/B test.
