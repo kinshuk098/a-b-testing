@@ -47,3 +47,7 @@ This project analyzes the performance of Facebook and AdWords ad campaigns using
 - 📊 Bar and area charts of conversions/clicks by year
 - 🔢 KPI cards showing Z-score, p-values, and conversion rates
 - 🎯 Campaign count metrics for both platforms
+
+## 🧠 Insights
+
+> Facebook outperformed AdWords by 63.58% in conversion efficiency. The difference is statistically significant (z = -72.91), indicating Facebook is the stronger performer in this A/B test.
