@@ -14,7 +14,7 @@ This project analyzes the performance of Facebook and AdWords ad campaigns using
 
 ---
 
-## 🔧 Tools Used
+## 🔧 Tools and Technique Used
 
 - PostgreSQL (Data processing + uplift and Z-test calculations)
 - Power BI (Data visualization & dashboard creation)
