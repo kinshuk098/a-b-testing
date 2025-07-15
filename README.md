@@ -4,13 +4,6 @@ This project analyzes the performance of Facebook and AdWords ad campaigns using
 
 ---
 
-## 📁 Dataset
-
-- 📄 **A_B_testing_dataset.csv**  
-- Fields: `facebook_ad_clicks`, `facebook_ad_conversions`, `adword_ad_clicks`, `adword_ad_conversions`, `date_of_campaign`, and related cost metrics
-
----
-
 ## 🧪 Project Objectives
 
 - Compare Facebook vs AdWords ad performance
